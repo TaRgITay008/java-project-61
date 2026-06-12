@@ -43,3 +43,12 @@
 ### Игра "Арифметическая прогрессия" - Поражение
 
 ![Прогрессия Поражение](screenshots/progression-lose.png)
+
+
+### Игра "Простое число" - Победа
+
+![Prime Победа](screenshots/prime-win.png)
+
+### Игра "Простое число" - Поражение
+
+![Prime Поражение](screenshots/prime-lose.png)
